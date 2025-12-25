@@ -8,11 +8,11 @@
 4. Сделаны статистика данных;
 
 # Внутри:
-- Проект.ipynb — анализ в Jupyter (Google Colaboratory)
+- books.ipynb — анализ в Jupyter (Google Colaboratory)
 - google_books_dataset.csv — данные о книгах
 - README.md — документация проекта
 
 # Как запустить:
-1. Открыть Проект.ipynb
+1. Открыть books.ipynb
 2. Загрузить google_books_dataset.csv
 3. Запустить все ячейки
